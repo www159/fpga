@@ -1,0 +1,540 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/tes
+vaddr_adder
+Z0 !s110 1646308705
+!i10b 1
+!s100 O<2[;No2cL`;iTc56oz@63
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFdzj3AP_Rb1EodQ^Pz7al2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dG:/Users/21077/Documents/fpga/task1
+Z4 w1645749544
+Z5 8G:/Users/21077/Documents/fpga/task1/xgriscv_parts.v
+Z6 FG:/Users/21077/Documents/fpga/task1/xgriscv_parts.v
+!i122 12
+L0 30 6
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1646308705.000000
+Z9 !s107 xgriscv_defines.v|G:/Users/21077/Documents/fpga/task1/xgriscv_parts.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|G:/Users/21077/Documents/fpga/task1/xgriscv_parts.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+valu
+R0
+!i10b 1
+!s100 63BfXOo[5UM;jiQQUGd>E2
+R1
+I=C^2mkXlJkf]@fQF9;zb<1
+R2
+R3
+w1645757664
+8G:/Users/21077/Documents/fpga/task1/xgriscv_alu.v
+FG:/Users/21077/Documents/fpga/task1/xgriscv_alu.v
+!i122 8
+L0 13 57
+R7
+r1
+!s85 0
+31
+R8
+!s107 xgriscv_defines.v|G:/Users/21077/Documents/fpga/task1/xgriscv_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Users/21077/Documents/fpga/task1/xgriscv_alu.v|
+!i113 1
+R11
+R12
+vampattern
+Z13 !s110 1646308706
+!i10b 1
+!s100 i>^0@K_`1U6oXR9m3cSSE3
+R1
+IX;Eh?N]7JDeUcL3WOlEj50
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 178 15
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vcmp
+R13
+!i10b 1
+!s100 e=OBVUmUS;J4XmHcE?nTa2
+R1
+I3WM7FQWk39Z:`1:kZc@NT3
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 168 9
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vcontroller
+R0
+!i10b 1
+!s100 Vaf]S@7`BHGbC^4lBbX[91
+R1
+IMCb1Ji`ZGb6NgVhS0CeJO2
+R2
+R3
+w1645759816
+8G:/Users/21077/Documents/fpga/task1/xgriscv_controller.v
+FG:/Users/21077/Documents/fpga/task1/xgriscv_controller.v
+!i122 9
+L0 14 141
+R7
+r1
+!s85 0
+31
+R8
+!s107 xgriscv_defines.v|G:/Users/21077/Documents/fpga/task1/xgriscv_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Users/21077/Documents/fpga/task1/xgriscv_controller.v|
+!i113 1
+R11
+R12
+vdatapath
+R0
+!i10b 1
+!s100 fz2XJYhjN@U9A48dhML@b3
+R1
+I>fbi@=BjOcV9:SlKfKbGz0
+R2
+R3
+w1645749542
+8G:/Users/21077/Documents/fpga/task1/xgriscv_datapath.v
+FG:/Users/21077/Documents/fpga/task1/xgriscv_datapath.v
+!i122 10
+L0 13 137
+R7
+r1
+!s85 0
+31
+R8
+!s107 xgriscv_defines.v|G:/Users/21077/Documents/fpga/task1/xgriscv_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Users/21077/Documents/fpga/task1/xgriscv_datapath.v|
+!i113 1
+R11
+R12
+vdmem
+R0
+!i10b 1
+!s100 Ez5d@ZL7@GRT<j>mZQ?0B2
+R1
+IWSI719aUIeMBlXmc27K9[0
+R2
+R3
+Z14 w1645756248
+Z15 8G:/Users/21077/Documents/fpga/task1/xgriscv_mem.v
+Z16 FG:/Users/21077/Documents/fpga/task1/xgriscv_mem.v
+!i122 11
+L0 28 19
+R7
+r1
+!s85 0
+31
+R8
+Z17 !s107 xgriscv_defines.v|G:/Users/21077/Documents/fpga/task1/xgriscv_mem.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|G:/Users/21077/Documents/fpga/task1/xgriscv_mem.v|
+!i113 1
+R11
+R12
+vflopenr
+R13
+!i10b 1
+!s100 l2[N8;5V4Y7ObJP3iD;6?3
+R1
+IzTSI<UiSo06o9E4`E89SZ0
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 63 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vflopenrc
+R0
+!i10b 1
+!s100 TWho6h2?NTWlk=hHFZ:6b2
+R1
+IfYSIZQNR@l;YT]f5QZQT83
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 50 11
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vfloprc
+R0
+!i10b 1
+!s100 L[kFl;F[<Y2UM>LzZC[2S0
+R1
+IO7SzHVIhNFc=2JKRRCJAF0
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 38 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vimem
+R0
+!i10b 1
+!s100 ig]_0Q;`jM41HoI63h@=A2
+R1
+I?i:BQ@7YfFGX2NLzYiiO<2
+R2
+R3
+R14
+R15
+R16
+!i122 11
+L0 14 12
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!i113 1
+R11
+R12
+vimm
+R13
+!i10b 1
+!s100 Mf:GNeXZb7Lo0k[=Xzh[G1
+R1
+IWGRA=?<CRTbCQMDPZV7k01
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 142 16
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux2
+R13
+!i10b 1
+!s100 2D@eP>CeMjkWLXTLAMbz90
+R1
+IFk21gIblO99RT=PO>l2zo0
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 74 7
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux3
+R13
+!i10b 1
+!s100 ICWK^?NVhZim6L305c^G^2
+R1
+IFI?HASH=AdOK8haU?3g`M0
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 82 7
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux4
+R13
+!i10b 1
+!s100 V35KCeDia1QWlGGTeS<>B3
+R1
+I5gMYkLM6V=KIC0QUI;;F=1
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 90 15
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux5
+R13
+!i10b 1
+!s100 1Gzld^b<bUXa8?IDAIc5E2
+R1
+IhQ=^Dzij4Sa1zLAgk`98S1
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 106 17
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmux6
+R13
+!i10b 1
+!s100 ^OMXP1d6TXai;4Fm16gWH2
+R1
+Id@<Q5kRfF@;:FTD<l;mT93
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 124 17
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vpcenr
+R0
+!i10b 1
+!s100 ZD<]kj7:7FdE>^a_;M?Vg3
+R1
+IX>Szj=56=n1E9]I5We0gB0
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 15 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vregfile
+R13
+!i10b 1
+!s100 6zXBk:0o8I82:`^iH2:Ne3
+R1
+IjbIA:`>=_EhFe`Y^jd[Y:2
+R2
+R3
+R4
+8G:/Users/21077/Documents/fpga/task1/xgriscv_regfile.v
+FG:/Users/21077/Documents/fpga/task1/xgriscv_regfile.v
+!i122 14
+L0 14 31
+R7
+r1
+!s85 0
+31
+Z19 !s108 1646308706.000000
+!s107 xgriscv_defines.v|G:/Users/21077/Documents/fpga/task1/xgriscv_regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Users/21077/Documents/fpga/task1/xgriscv_regfile.v|
+!i113 1
+R11
+R12
+vsl1
+R13
+!i10b 1
+!s100 =VC_J>NNhHecJ?n2daNR60
+R1
+IfR6FijQMH>NOG7S2i4?WE1
+R2
+R3
+R4
+R5
+R6
+!i122 12
+L0 160 6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vxgriscv
+R13
+!i10b 1
+!s100 J>4BQCShY>Ioi`9BDM5CY3
+R1
+IA:Sn_DXDeLV;z@h=A00V31
+R2
+R3
+R4
+Z20 8G:/Users/21077/Documents/fpga/task1/xgriscv_pipelined.v
+Z21 FG:/Users/21077/Documents/fpga/task1/xgriscv_pipelined.v
+!i122 13
+L0 31 41
+R7
+r1
+!s85 0
+31
+R19
+Z22 !s107 xgriscv_defines.v|G:/Users/21077/Documents/fpga/task1/xgriscv_pipelined.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|G:/Users/21077/Documents/fpga/task1/xgriscv_pipelined.v|
+!i113 1
+R11
+R12
+vxgriscv_pipeline
+R13
+!i10b 1
+!s100 D1hCafdnnCGZ1@k<MZTo?1
+R1
+IH`KXHREn]I2zV3ohb[Rco3
+R2
+R3
+R4
+R20
+R21
+!i122 13
+L0 13 16
+R7
+r1
+!s85 0
+31
+R19
+R22
+R23
+!i113 1
+R11
+R12
+vxgriscv_tb
+R13
+!i10b 1
+!s100 L1:SdCPaJ_Z91kDzKdgMQ2
+R1
+IVDA_85lOm`QPQAhQjhJJX2
+R2
+R3
+R4
+8G:/Users/21077/Documents/fpga/task1/xgriscv_tb.v
+FG:/Users/21077/Documents/fpga/task1/xgriscv_tb.v
+!i122 15
+L0 12 30
+R7
+r1
+!s85 0
+31
+R19
+!s107 G:/Users/21077/Documents/fpga/task1/xgriscv_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Users/21077/Documents/fpga/task1/xgriscv_tb.v|
+!i113 1
+R11
+R12

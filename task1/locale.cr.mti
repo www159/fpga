@@ -1,0 +1,80 @@
+G:/Users/21077/Documents/fpga/task1/xgriscv_alu.v {1 {vlog -work work -stats=none G:/Users/21077/Documents/fpga/task1/xgriscv_alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} G:/Users/21077/Documents/fpga/task1/xgriscv_defines.v {1 {vlog -work work -stats=none G:/Users/21077/Documents/fpga/task1/xgriscv_defines.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} G:/Users/21077/Documents/fpga/task1/xgriscv_parts.v {1 {vlog -work work -stats=none G:/Users/21077/Documents/fpga/task1/xgriscv_parts.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pcenr
+-- Compiling module addr_adder
+-- Compiling module floprc
+-- Compiling module flopenrc
+-- Compiling module flopenr
+-- Compiling module mux2
+-- Compiling module mux3
+-- Compiling module mux4
+-- Compiling module mux5
+-- Compiling module mux6
+-- Compiling module imm
+-- Compiling module sl1
+-- Compiling module cmp
+-- Compiling module ampattern
+
+Top level modules:
+	pcenr
+	addr_adder
+	floprc
+	flopenrc
+	flopenr
+	mux2
+	mux3
+	mux4
+	mux5
+	mux6
+	imm
+	sl1
+	cmp
+	ampattern
+
+} {} {}} G:/Users/21077/Documents/fpga/task1/xgriscv_pipelined.v {1 {vlog -work work -stats=none G:/Users/21077/Documents/fpga/task1/xgriscv_pipelined.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xgriscv_pipeline
+-- Compiling module xgriscv
+
+Top level modules:
+	xgriscv_pipeline
+
+} {} {}} G:/Users/21077/Documents/fpga/task1/xgriscv_regfile.v {1 {vlog -work work -stats=none G:/Users/21077/Documents/fpga/task1/xgriscv_regfile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} G:/Users/21077/Documents/fpga/task1/xgriscv_tb.v {1 {vlog -work work -stats=none G:/Users/21077/Documents/fpga/task1/xgriscv_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xgriscv_tb
+
+Top level modules:
+	xgriscv_tb
+
+} {} {}} G:/Users/21077/Documents/fpga/task1/xgriscv_datapath.v {1 {vlog -work work -stats=none G:/Users/21077/Documents/fpga/task1/xgriscv_datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} G:/Users/21077/Documents/fpga/task1/xgriscv_controller.v {1 {vlog -work work -stats=none G:/Users/21077/Documents/fpga/task1/xgriscv_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}}
